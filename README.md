@@ -21,20 +21,6 @@ This repository contains the implementation and dataset for our research publish
 
 **Read the full paper:** [https://www.mdpi.com/1424-8220/25/20/6489](https://www.mdpi.com/1424-8220/25/20/6489)
 
-**Citation:**
-```bibtex
-@article{sallam2025intelligent,
-  title={Intelligent Dental Handpiece: Real-Time Motion Analysis for Skill Development},
-  author={Sallam, Mohamed and Salah, Yousef and Osman, Yousef and Hegazy, Ali and Khatab, Esraa and Shalash, Omar},
-  journal={Sensors},
-  volume={25},
-  number={20},
-  pages={6489},
-  year={2025},
-  publisher={MDPI},
-  doi={10.3390/s25206489}
-}
-```
 
 ## ✨ Key Features
 
